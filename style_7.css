@@ -1,0 +1,30 @@
+.heading h1{
+    color: red;
+    width: 100%;
+    height: 260px;
+    text-align: center;
+    background-image: url(pexels-photo-399610.jpeg);
+}
+.calender{
+    display:inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.month{
+    padding: 50px;
+}
+th{
+    color:#ffffff;
+}
+h3{
+    color:rgb(165, 127, 255);
+}
+div{
+    background-color: rgb(195, 148, 205);
+}
+td{
+    padding: 3px;
+}
+.mon{
+    color:blue;
+}
